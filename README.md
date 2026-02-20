@@ -139,7 +139,7 @@ tests/                     # Test fixtures
 
 ## Acknowledgments
 
-The V8 6.x parser was originally ported from [ghidra_nodejs](https://github.com/nicolo-ribaudo/ghidra_nodejs) (Positive Technologies).
+The V8 6.x parser was originally ported from [ghidra_nodejs](https://github.com/PositiveTechnologies/ghidra_nodejs) (Positive Technologies).
 
 ## License
 
