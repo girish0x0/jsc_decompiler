@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated output
+*_output.txt
+*_output.js
+
+# Compiled bytecode (test fixtures tracked explicitly)
+*.jsc
+!tests/node8/*.jsc
+!samples/*.jsc
