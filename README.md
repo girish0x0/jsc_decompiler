@@ -77,8 +77,8 @@ The following versions are available separately:
 
 | Node.js | Electron | V8 Engine | Highlights |
 |---------|----------|-----------|------------|
-| 16.x | 17–25 | 9.4 / 9.8 | Native binary parser, iterative closure inlining for deep webpack bundles, nested array boilerplate extraction |
-| 22.x | — | 12.4 | Full decompilation with async/await, generators, optional chaining, nullish coalescing |
+| 16.x | 17–25 | 9.4 / 9.8 | Webpack bundle support, Electron app decompilation |
+| 22.x | — | 12.4 | Full ES2022+ decompilation, async/await, generators, classes |
 
 Contact **Girishx3@gmail.com** for access.
 
