@@ -71,9 +71,16 @@ Variable names are lost during compilation (replaced with `a0`, `a1` for paramet
 | Arrow functions | Shown as regular functions |
 | Inner functions (lazy-compiled) | Requires `--no-lazy` flag during compilation |
 
-## Node 22 / V8 12.x Support
+## Additional V8 Version Support
 
-Node 22 (V8 12.x) decompilation is available separately. Contact **Girishx3@gmail.com** for access.
+The following versions are available separately:
+
+| Node.js | Electron | V8 Engine | Highlights |
+|---------|----------|-----------|------------|
+| 16.x | 17–25 | 9.4 / 9.8 | Native binary parser, iterative closure inlining for deep webpack bundles, nested array boilerplate extraction |
+| 22.x | — | 12.4 | Full decompilation with async/await, generators, optional chaining, nullish coalescing |
+
+Contact **Girishx3@gmail.com** for access.
 
 ## How .jsc Files Are Created
 
